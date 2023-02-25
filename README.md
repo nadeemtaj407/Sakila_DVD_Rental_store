@@ -42,26 +42,26 @@ We understand the complete schema of DVD rental store and tried to discuss some 
 
 
 
-### Genre analysis
+### Genre based analysis
 
 -	Name the category which rented the most 
 -	which category generated more revenue
 -	top 3 films of each genera of revenue/frequency. 
 - Insight: To recommend the customer about our most popular category and movie
 
-### film base analysis:
+### film based analysis:
 -	list the movies that generate more revenue
 -	Which movie rented the most? (Frequency)
 
 - Insight: we can identify which movie is getting popular and make sure to keep it always in stock.
 
-### Actor base analysis 
+### Actor based analysis 
 -	How many actors are available in each category?
 -	Name an actor who is the most preferable in industry, 
 -	write how many films he has done?
 - Insight: Which Actor is the best for specific genre 
 
-### City base analysis 
+### City based analysis 
 
 -	Top 5 cities we get maximum revenue
 -	Five lowest cities generating minimum revenue
@@ -69,7 +69,7 @@ We understand the complete schema of DVD rental store and tried to discuss some 
 
 
 
-### Customer analysis:
+### Customer based analysis:
 -	Top three Customers and from which city they belong?
 -	Top 5 customers who paid the maximum amount of money?
 
